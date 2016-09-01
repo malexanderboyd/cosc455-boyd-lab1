@@ -3,4 +3,5 @@
   */
 object HelloScala extends App {
   print("Hello, World! Hello, Scala!")
+  var day : Int = 12
 }
